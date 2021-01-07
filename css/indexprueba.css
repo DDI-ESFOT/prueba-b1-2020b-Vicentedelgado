@@ -1,0 +1,108 @@
+.primera .container{
+	margin-bottom: 10%;
+}
+.primera .text-center img{
+	width: 160px;
+}
+
+.card{
+	border: none!important;
+	background-color: transparent;
+	text-align: center; 
+}
+.card .text-center img{
+	    width: 88%;
+}
+.primera .card .card-body{
+	text-align: left;
+	margin-top: 45%;
+}
+.botones{
+	display: flex;
+}
+.botones a img{
+	width: 160px;
+	margin-right: 10px;
+}
+.primera .card .card-body p{
+	font-size: 250%;
+	width: 207px;
+}
+#col1{
+	width: 30%;
+}
+.segunda .container{
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+.segunda .card .card-body p{
+	color: white;
+	font-size: 250%;
+	text-align: left;
+	width: 200px;
+	margin-left: 80px;
+}
+.segunda .card .card-body .btn{
+	width: 220px;
+	background-color: #f6931d;
+}
+.segunda .container{
+	background-image: url(../images/phone-2.a0e481df3d808370cf1d.jpg);
+	background-size: cover;
+    background-position: right bottom;
+    background-attachment: fixed;
+    background-position-y: -6%;
+    margin-bottom: 0%;
+    height: 400px;
+}
+.tercera .container{
+	background-color: #044486;
+	color: #4b74a5;
+}
+.tercera .container .card img{
+	width: 60px;
+	margin:0 auto;
+}
+.tercera .container .card{
+	padding: 2%;
+	width: 10px;
+}
+.tercera .container .card-group{
+	padding: 6%;
+}
+.cuarta .container{
+	background-image: url(../images/taxi.a74ffe08987564e2b9fd.jpg);
+	background-size: cover;
+    background-position: right bottom;
+    background-attachment: fixed;
+    background-position-y: -6%;
+    height: 400px;
+}
+
+.quinta .container .card{
+	color: grey;
+}
+.quinta .container .card .card-body .btn{
+	background-color:#044486;
+	color: white;
+}
+.quinta .container .card .card-body img{
+	width: 80px;
+    background-color: #044486;
+    border-radius: 40px;
+    margin-top: -19px;
+    margin-right: -27px;
+    z-index: 0;
+}
+
+input{
+	border: none!important;
+	margin-bottom: 3%;
+	border-bottom:1px solid #fff!important;
+	border-bottom-color: grey !important;
+	width: 80%;
+}
+form{
+	border:1px solid grey !important;
+	border-radius: 40px;
+}
